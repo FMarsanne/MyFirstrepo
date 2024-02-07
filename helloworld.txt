@@ -5,3 +5,4 @@ nouvelle ligne
 4ème ligne ajoutée pour tester le git pull
 5ème ligne pour le pull avec 2 fichiers modifiés
 6ème ligne pour le pull (sélection d'un fichier)
+7ème ligne ajoutée pour tester le conflit
